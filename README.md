@@ -1,1 +1,1 @@
-This is a test, second attempt
+Funny story, I accidentaly created another folder called my-repository inside this one, I had no idea what was in there, only to find that my second attemp README file was there, so I created this one to challenge myself a bit README_TWO.md, only to find out that didn't work so I am just updating the old one and pushing it for the third time.
